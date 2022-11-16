@@ -11,6 +11,7 @@ Sam Zito's GitHub Profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNZito&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamNZito&theme=radical)](https://git.io/streak-stats)
 
 Contact
 --------------------------------------------
