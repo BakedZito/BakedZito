@@ -9,6 +9,9 @@ Sam Zito's GitHub Profile
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamNZito&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNZito&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Contact
 --------------------------------------------
 <div id="badges">
@@ -16,3 +19,9 @@ Contact
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
+
+Frequently Used Tool
+--------------------------------------------
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
